@@ -13,7 +13,7 @@ A valid Python3 installation is required to run these scripts. Enter the followi
 The lament flying macro requires you to be on a titan class using the catapult lift jump and the lion rampant exotic boots. The Lament sword should be the active weapon. The macro handles all movment actions, all you have to do is hold the key the macro is bound to and look in the direction you want to fly.
 
 ### Usage
-`python3 lament-fly.py '<macro key bind>' '<stop macro key bind>`
+`python3 lament-fly.py '<macro key bind>' '<stop macro key bind>'`
 
 An example where the macro keybind is bound to the '~' (tilde) key and the keybind to stop the macro script is bound to the escape key: 
 
