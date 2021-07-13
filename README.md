@@ -1,7 +1,7 @@
 # Destiny 2 Macros
 
 
-## Requirnments
+## Requirements
 
 A valid Python3 installation is required to run these scripts. Enter the following command to install the package requirnments.
 
