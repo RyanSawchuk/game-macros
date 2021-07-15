@@ -25,9 +25,10 @@ An example where the macro keybind is bound to the '~' (tilde) key and the keybi
 The quick draw macro allows you to easily perform the quick draw glitch, commonly used with two slug shotguns for close range boss dps situations like Taniks in DSC or Templar in VOG. The macro handles all the required actions except for aiming. All you have to do is hold the key the macro is bound to and aim at the target. This macro also has an option to quick swap with the heavy slot as seen [here](https://www.youtube.com/watch?v=MikvUt78IH0).
 
 ### Usage
-`Usage: python3 quick-draw.py <option> '<macro key bind>' '<stop macro key bind>'`
+`python3 quick-draw.py <option> '<macro key bind>' '<stop macro key bind>'`
 
-An example where option 1 is selected for double slugging with the macro keybind bound to the '~' (tilde) key and the keybind to stop the macro script bound to the escape key: `python3 quick-draw.py 1 '~' 'esc'`
+An example where option 1 is selected for double slugging with the macro keybind bound to the '~' (tilde) key and the keybind to stop the macro script bound to the escape key: 
+`python3 quick-draw.py 1 '~' 'esc'`
 
 #### Options
 1. Double Slug
