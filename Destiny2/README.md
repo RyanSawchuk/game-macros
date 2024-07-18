@@ -1,4 +1,4 @@
-# Destiny 2 Macros (All have been patched out)
+# Destiny 2 Macros
 
 
 ## Requirements
@@ -20,7 +20,7 @@ An example where the macro keybind is bound to the '~' (tilde) key and the keybi
 `python3 lament-fly.py '~' 'esc'`
 
 
-## Quick Draw
+## Quick Draw (Patched)
 
 The quick draw macro allows you to easily perform the quick draw glitch, commonly used with two slug shotguns for close range boss dps situations like Taniks in DSC or Templar in VOG. The macro handles all the required actions except for aiming. All you have to do is hold the key the macro is bound to and aim at the target. This macro also has an option to quick swap with the heavy slot as seen [here](https://www.youtube.com/watch?v=MikvUt78IH0).
 
