@@ -1,4 +1,4 @@
-# Destiny 2 Macros
+# Destiny 2 Macros (All have been patched out)
 
 
 ## Requirements
